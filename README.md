@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Porrapat (Pao)
 
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+
 **Rust Backend Developer | PHP/Laravel Expert | Full-Stack Engineer | DigitalOcean Practitioner**
 
 I’m a full-stack developer with 15+ years of experience, currently specializing in **Rust backend**,  
@@ -69,15 +75,7 @@ A collection of backend experiments using **Axum**, **Tonic gRPC**, **async conc
 ## 📈 GitHub Stats (Optional)
 
 ![Pao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Porrapat&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porrapat&layout=compact&theme=tokyonight)
-
-
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 
 
 ---
