@@ -74,4 +74,4 @@ Various Axum + Tonic + async experiments
 ## 📫 Contact
 
 - 🌐 LinkedIn: https://www.linkedin.com/in/porrapat-petchdamrongskul-56b94398/
-- 💬 Email: (ใส่ได้ถ้าอยากรับข้อเสนอ)
+- 💬 Email: porrapat.cpe20@gmail.com
