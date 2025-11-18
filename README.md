@@ -14,6 +14,9 @@ API design, distributed systems, and building high-performance tools and microse
 I also maintain strong experience in **PHP/Laravel**, JavaScript (Vue/React), CLI development,  
 and cloud deployment on DigitalOcean.
 
+## 📄 Resume & Portfolio
+- [Download Resume](Porrapat_Petchdamrongskul_Resume_2025.pdf)
+- [Download Portfolio](Porrapat_Petchdamrongskul_Portfolio_2025.pdf)
 ---
 
 ## 🚀 What I'm Currently Focusing On
