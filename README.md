@@ -29,10 +29,10 @@ Rust • PHP • JavaScript • TypeScript • Go (beginner) • Python (tools)
 Axum • Tonic gRPC • Laravel • Node.js • REST API • WebSocket
 
 **Frontend**  
-Vue.js • React • Tailwind CSS
+Vue.js • React • Bootstrap • Tailwind CSS
 
 **Database**  
-MySQL • MariaDB • MongoDB • PostgreSQL
+MySQL • MariaDB • Sqlite • MongoDB • PostgreSQL • MSSQL
 
 **DevOps / Tools**  
 Docker • DigitalOcean • GitHub Actions • WSL2 • Linux • Nginx/Apache
