@@ -53,14 +53,17 @@ Benchmarking & comparing PHP vs Rust for CPU-heavy tasks
 A TextMate grammar + VSCode extension for MMIX assembly  
 👉 https://github.com/Porrapat/vscode-mmix
 
-### 🟥 Special Clock CLI  
-A Rust CLI tool generating time formats & ASCII clocks  
-👉 https://github.com/Porrapat/cli-special-clock
-
 ### 🟪 Rust Web API Experiments  
-Various Axum + Tonic + async experiments  
-👉 (Your best Axum project link here)
+A collection of backend experiments using **Axum**, **Tonic gRPC**, **async concurrency**, and structured API design.
 
+- **Axum REST API Project**  
+  Basic REST backend with Axum, typed routes, extractors, error handling, and structured layers.  
+  👉 https://github.com/Porrapat/project_api_axum
+
+- **MicroserviceProject (Axum + Tonic)**  
+  A multi-service backend experiment using Axum, Tonic gRPC, async tasks, modular architecture, and service separation.  
+  👉 https://github.com/Porrapat/MicroserviceProject
+  
 ---
 
 ## 📈 GitHub Stats (Optional)
@@ -75,3 +78,5 @@ Various Axum + Tonic + async experiments
 
 - 🌐 LinkedIn: https://www.linkedin.com/in/porrapat-petchdamrongskul-56b94398/
 - 💬 Email: porrapat.cpe20@gmail.com
+- 📱 Phone: **085-063-6324**
+- 💬 Line ID: **porrapatline**
