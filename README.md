@@ -72,6 +72,14 @@ A collection of backend experiments using **Axum**, **Tonic gRPC**, **async conc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porrapat&layout=compact&theme=tokyonight)
 
+
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+
+
 ---
 
 ## 📫 Contact
