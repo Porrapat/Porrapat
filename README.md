@@ -1,0 +1,77 @@
+# 👋 Hi, I'm Porrapat (Pao)
+
+**Rust Backend Developer | PHP/Laravel Expert | Full-Stack Engineer | DigitalOcean Practitioner**
+
+I’m a full-stack developer with 15+ years of experience, currently specializing in **Rust backend**,  
+API design, distributed systems, and building high-performance tools and microservices.
+
+I also maintain strong experience in **PHP/Laravel**, JavaScript (Vue/React), CLI development,  
+and cloud deployment on DigitalOcean.
+
+---
+
+## 🚀 What I'm Currently Focusing On
+
+- 🦀 Rust backend development (Axum, Tonic gRPC, async, concurrency)
+- ⚙️ CLI tools & learning projects (Rust + PHP integration)
+- 📚 Building **PHP Koans** & other educational tools
+- ☁ Deploying web apps & services on DigitalOcean
+- 🔬 Exploring compiler internals, language design, and dev tooling
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+Rust • PHP • JavaScript • TypeScript • Go (beginner) • Python (tools)
+
+**Backend**  
+Axum • Tonic gRPC • Laravel • Node.js • REST API • WebSocket
+
+**Frontend**  
+Vue.js • React • Tailwind CSS
+
+**Database**  
+MySQL • MariaDB • MongoDB • PostgreSQL
+
+**DevOps / Tools**  
+Docker • DigitalOcean • GitHub Actions • WSL2 • Linux • Nginx/Apache
+
+---
+
+## 🌟 Featured Projects
+
+### 🟦 PHP Koans  
+**A test-driven learning tool for PHP**, inspired by Ruby Koans  
+👉 https://github.com/Porrapat/php_koans
+
+### 🟧 PHPRust Bench  
+Benchmarking & comparing PHP vs Rust for CPU-heavy tasks  
+👉 https://github.com/Porrapat/phprust-bench
+
+### 🟩 VSCode MMIX Syntax  
+A TextMate grammar + VSCode extension for MMIX assembly  
+👉 https://github.com/Porrapat/vscode-mmix
+
+### 🟥 Special Clock CLI  
+A Rust CLI tool generating time formats & ASCII clocks  
+👉 https://github.com/Porrapat/cli-special-clock
+
+### 🟪 Rust Web API Experiments  
+Various Axum + Tonic + async experiments  
+👉 (Your best Axum project link here)
+
+---
+
+## 📈 GitHub Stats (Optional)
+
+![Pao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Porrapat&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porrapat&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- 🌐 LinkedIn: https://www.linkedin.com/in/porrapat-petchdamrongskul-56b94398/
+- 💬 Email: (ใส่ได้ถ้าอยากรับข้อเสนอ)
