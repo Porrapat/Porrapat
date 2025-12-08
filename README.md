@@ -15,8 +15,8 @@ I also maintain strong experience in **PHP/Laravel**, JavaScript (Vue/React), CL
 and cloud deployment on DigitalOcean.
 
 ## 📄 Resume & Portfolio
-- [Download Resume](Porrapat_Petchdamrongskul_Resume_2025.pdf)
-- [Download Portfolio](Porrapat_Petchdamrongskul_Portfolio_2025.pdf)
+- [Download Resume](https://porrapat.github.io/Porrapat_Petchdamrongskul_Resume_2025.pdf)
+- [Download Portfolio](https://porrapat.github.io/Porrapat_Petchdamrongskul_Portfolio_2025.pdf)
 ---
 
 ## 🎓 Certificates
