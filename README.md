@@ -50,6 +50,12 @@ Docker • DigitalOcean • GitHub Actions • WSL2 • Linux • Nginx/Apache
 
 ## 🌟 Featured Projects
 
+### 🟩 Rusttone – Audio DSP in Rust
+A practical DSP experiment implementing **echo / reverb processing** using Rust,  
+featuring WAV handling, signal processing, and Axum-based file upload.  
+👉 https://github.com/Porrapat/rusttone
+👉 https://rusttone.porrapat.com
+
 ### 🟦 PHP Koans  
 **A test-driven learning tool for PHP**, inspired by Ruby Koans  
 👉 https://github.com/Porrapat/php_koans
@@ -57,6 +63,7 @@ Docker • DigitalOcean • GitHub Actions • WSL2 • Linux • Nginx/Apache
 ### 🟧 PHPRust Bench  
 Benchmarking & comparing PHP vs Rust for CPU-heavy tasks  
 👉 https://github.com/Porrapat/phprust-bench
+👉 https://phprust-bench.porrapat.com
 
 ### 🟩 VSCode MMIX Syntax  
 A TextMate grammar + VSCode extension for MMIX assembly  
