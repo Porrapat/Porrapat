@@ -19,6 +19,37 @@ and cloud deployment on DigitalOcean.
 - [Download Portfolio](Porrapat_Petchdamrongskul_Portfolio_2025.pdf)
 ---
 
+## 🎓 Certificates
+
+### Let's Get Rusty Bootcamp
+Issued: **9 September 2025**  
+📄 [View Certificate](https://porrapat.github.io/certificates/Lets_get_rusty_Bootcamp_Porrapat_Petchdamrongskul.png)
+
+### Learn JavaScript Online
+Issued: **21 September 2024**  
+📄 [View Certificate](https://porrapat.github.io/certificates/LearnJavascriptOnline-porrapatpetchdamrongskul-3313.pdf)
+
+### Learn TypeScript Online
+Issued: **11 October 2024**  
+📄 [View Certificate](https://porrapat.github.io/certificates/LearnTypescriptOnline-porrapatpetchdamrongskul-6711.pdf)
+
+### React Tutorial
+Issued: **23 November 2024**  
+📄 [View Certificate](https://porrapat.github.io/certificates/ReactTutorial-porrapatpetchdamrongskul-4041.pdf)
+
+### Junior JavaScript Certification (Certificate.dev)
+Issued: **20 October 2024**  
+📄 [View Certificate](https://porrapat.github.io/certificates/CertificateDev-Junior-Javascript-porrapatpetchdamrongskul.pdf)
+
+### Junior Angular Certification (Certificate.dev)
+Issued: **23 February 2025**  
+📄 [View Certificate](https://porrapat.github.io/certificates/CertificateDev-Junior-Angular-porrapatpetchdamrongskul.pdf)
+
+### Junior React Certification (Certificate.dev)
+Issued: **4 September 2025**  
+📄 [View Certificate](https://porrapat.github.io/certificates/CertificateDev-Junior-React-porrapatpetchdamrongskul.pdf)
+
+---
 ## 🚀 What I'm Currently Focusing On
 
 - 🦀 Rust backend development (Axum, Tonic gRPC, async, concurrency)
