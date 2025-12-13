@@ -110,3 +110,4 @@ A collection of backend experiments using **Axum**, **Tonic gRPC**, **async conc
 - 💬 Email: porrapat.cpe20@gmail.com
 - 📱 Phone: **085-063-6324**
 - 💬 Line ID: **porrapatline**
+- 💬 Discord: https://discord.gg/SrfNpzsd
