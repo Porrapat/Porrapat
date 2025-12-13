@@ -49,7 +49,7 @@ Rust • PHP • JavaScript • TypeScript • Go (beginner) • Python (tools)
 Axum • Tonic gRPC • Laravel • Node.js • REST API • WebSocket
 
 **Frontend**  
-Vue.js • React • Bootstrap • Tailwind CSS
+Leptos • Vue.js • React • Bootstrap • Tailwind CSS
 
 **Database**  
 MySQL • MariaDB • Sqlite • MongoDB • PostgreSQL • MSSQL
