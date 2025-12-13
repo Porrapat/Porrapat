@@ -61,6 +61,15 @@ Docker • DigitalOcean • GitHub Actions • WSL2 • Linux • Nginx/Apache
 
 ## 🌟 Featured Projects
 
+### 🔷 SuperM – Leptos (Rust + WASM)
+
+A frontend learning project rebuilt from Jad Joubran’s React tutorial,
+implemented using **Leptos (Rust + WASM)** to explore architecture,
+state management, and reactive UI without JavaScript frameworks.
+
+👉 https://github.com/Porrapat/superm-leptos  
+👉 https://superm-leptos.porrapat.com
+
 ### 🟩 Rusttone – Audio DSP in Rust
 A practical DSP experiment implementing **echo / reverb processing** using Rust,  
 featuring WAV handling, signal processing, and Axum-based file upload.  
