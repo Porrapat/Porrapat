@@ -67,6 +67,7 @@ An interactive quiz platform for practicing Rust concepts.
 RustQuiz is designed to help learners think the Rust way — understanding ownership, borrowing, lifetimes, and compiler behavior via carefully crafted questions.
 
 👉 GitHub: https://github.com/Porrapat/rust_quiz
+
 👉 Live Demo: https://rustquiz.porrapat.com
 
 ### 🔷 SuperM – Leptos (Rust + WASM)
