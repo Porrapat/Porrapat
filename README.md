@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Porrapat (Pao)
+httpsttps 👋 Hi, I'm Porrapat (Pao)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -118,16 +118,18 @@ A collection of backend experiments using **Axum**, **Tonic gRPC**, **async conc
 ![Pao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Porrapat&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porrapat&layout=compact&theme=tokyonight)
  -->
- 
-## ☁️ Deployment
 
-Runs on DigitalOcean.  
-Yes, you get **$200 free credit** 💸
+--- 
+## Deployment
+
+It runs on DigitalOcean. Use this link https://m.do.co/c/fad39dfb1804
+
+Yes, you get **$200 free credit** 
 
 If you want to try DO but don’t want to brick your server,  
 DM me — I’ll help you set it up properly.
 
-👉 https://m.do.co/c/fad39dfb1804
+
 ---
 
 ## 📫 Contact
