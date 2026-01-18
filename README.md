@@ -1,4 +1,4 @@
-httpsttps 👋 Hi, I'm Porrapat (Pao)
+👋 Hi, I'm Porrapat (Pao)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
